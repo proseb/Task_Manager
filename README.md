@@ -5,7 +5,7 @@ Time management tool.
 It is a console application where you can add, remove and display your tasks with various importance.
 
 # Technology used
-I work on IntelliJ 2019.3 version and Java 11.0.6.
+Application made on IntelliJ 2019.3 IDE, Java 11.0.6. and Apache Commons Lang 3-3.9 library.
 
 # License
 Currently no license selected.
