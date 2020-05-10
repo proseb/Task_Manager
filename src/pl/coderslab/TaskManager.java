@@ -15,7 +15,7 @@ import java.util.Scanner;
 public class TaskManager {
 
     static String[][] tasks;
-    static final String FILE_NAME = "/home/seba/IdeaProjects/Task_Manager/src/pl/coderslab/tasks.csv";
+    static final String FILE_NAME = "src/pl/coderslab/tasks.csv";
 
     public static void main(String[] args) {
         tasks = readFromFile(FILE_NAME);
